@@ -1,2 +1,2 @@
 # Optimising In Vitro Fertilisation Using Predictive Machine Learning Models
-Final Year MEng Individual Project on Machine Learning methods to Optimise In-Vitro Fertilisation procedures
+Ziyad Ahmed Ansari's Final Year MEng Individual Project on Machine Learning Methods to Optimise In-Vitro Fertilisation procedures. We use KNN Regressor models to predict the optimal dosage of FSH in the ovarian stimulation stage of the procedure. We also use a KNN Regressor to predict the number of mature MII oocytes retrieved after ovarian stimulation. Lastly, we explore predicting the number of MII oocytes retrieved after ovarian stimulation using a 5-layer neural network.
